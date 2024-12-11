@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+/* #preloader {
+    background: #000 url(Assets/spin7.gif) no-repeat center center;
+    background-size: 15%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
+.load {
+    display: none;
+} */
+
+.menu {
+    background-color: midnightblue;
+    width: 1990px;
+    height: 78px;
+    color: black;
+    font-size: 37px;
+}
+
+.icon {
+    color: white;
+    font-size: 37px;
+    margin-top: -60px;
+    margin-left: 115px;
+    cursor: pointer;
+}
+
+
+.icc  {
+    margin-top: -50px;
+    margin-left: 190px;
+    cursor: pointer;
+}
+
+.line {
+    border-left: 1px solid gray;
+    height: 20px;
+    position: absolute;
+    left: 50%;
+    margin-left: -535px;
+    margin-top: -32px;
+}
+
+.match {
+    color: white;
+    margin-top: -30px;
+    margin-left: 330px;
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.rank {
+    color: white;
+    margin-top: -18px;
+    margin-left: 420px;
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.news {
+    color: white;
+    margin-top: -18px;
+    margin-left: 515px;
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.video {
+    color: white;
+    margin-top: -18px;
+    margin-left: 585px;
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+
+.team {
+    color: white;
+    margin-top: -18px;
+    margin-left: 665px;
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+
+.award {
+    color: white;
+    margin-top: -18px;
+    margin-left: 740px;
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.travel {
+    color: white;
+    margin-top: -18px;
+    margin-left: 835px;
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.shop {
+    color: white;
+    margin-top: -18px;
+    margin-left: 915px;
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+
+.search {
+    color: white;
+    margin-top: -20px;
+    margin-left: 1480px;
+    font-size: 25px;
+}
+
+.search2 {
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
+    color: white;
+    margin-left: 1515px;
+    margin-top: -34px;
+}
+
+.man {
+    font-size: 22px;
+    font-weight: 800;
+    cursor: pointer;
+    color: white;
+    margin-left: 1585px;
+    margin-top: -20px;
+}
+
+
+.sign {
+    font-size: 12px;
+    font-weight: 800;
+    cursor: pointer;
+    color: white;
+    margin-left: 1615px;
+    margin-top: -30px;
+}
+
+.h {
+    width: 4%;
+    height: 4px;
+    border: 0 none;
+    margin-left: 419px;
+    margin-top: -67px;
+    margin-bottom: 90px;
+    background-color: white;
+}
+
+.over {
+    margin-top: 50px;
+    margin-left: 110px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.player {
+    margin-top: -18px;
+    margin-left: 270px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+
+.pre {
+    margin-top: -18px;
+    margin-left: 480px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.about {
+    margin-top: -18px;
+    margin-left: 720px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+
+.faqs {
+    margin-top: -45px;
+    margin-left: 905px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.world {
+    margin-top: 20px;
+}
